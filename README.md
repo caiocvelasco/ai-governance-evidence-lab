@@ -4,6 +4,12 @@ An independent, one-page [Quarto](https://quarto.org/) research concept explorin
 
 This is a **research agenda and visual concept**, not an operational evaluation tool, validated assessment methodology, completed empirical study, or institutional project.
 
+## Illustrative case: AI in hiring
+
+A proposed research case asks what evidence would support a claim that an AI recruitment system reduces discrimination. It separates measured performance and audits from conclusions about fairness or causal impact, then considers what evidence employers and regulators would require before making deployment and oversight decisions. The example is hypothetical, grounded in UK public guidance and regulator audit work. It is a possible research direction rather than a completed study or confirmed fellowship topic.
+
+References: [UK Responsible AI in Recruitment guidance](https://www.gov.uk/government/publications/responsible-ai-in-recruitment-guide/responsible-ai-in-recruitment) and [ICO audits of AI recruitment tools](https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/2024/11/ico-intervention-into-ai-recruitment-tools-leads-to-better-data-protection-for-job-seekers/).
+
 ## Research questions
 
 1. **Evidence quality:** What makes developer claims, evaluations, audits, and incident reports credible?
