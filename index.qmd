@@ -19,7 +19,7 @@ AI developers and deployers make claims about safety, fairness, and social benef
 
 <div class="hero-links">
 <a class="button-main" href="#case-study">See a concrete example <span aria-hidden="true">↘</span></a>
-<a class="text-link" href="#framework">See the research framework <span aria-hidden="true">↗</span></a>
+<a class="text-link" href="#questions">See the research framework <span aria-hidden="true">↗</span></a>
 </div>
 :::
 ::: {.hero-decoration aria-hidden="true"}
