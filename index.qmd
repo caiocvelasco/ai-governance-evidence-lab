@@ -3,13 +3,23 @@ title: "AI Governance Evidence Lab"
 subtitle: "From AI claims to evidence-informed governance decisions"
 ---
 
-::: {.eyebrow}
-INDEPENDENT RESEARCH CONCEPT · NOVEMBER 2026
-:::
+```{=html}
+<nav class="lab-project-bar" aria-label="AI Governance Lab project navigation">
+  <div class="lab-project-brand">
+    <a href="https://aigovernancelab.org/" target="_self">AI Governance Lab</a>
+    <span class="lab-project-separator" aria-hidden="true">/</span>
+    <span class="lab-project-category">Evidence &amp; Evaluation</span>
+  </div>
+  <a class="lab-project-back" href="https://aigovernancelab.org/projects.html" target="_self"><span aria-hidden="true">←</span> All projects</a>
+</nav>
+<em><p class="lab-project-note">An independent research concept developed as part of the AI Governance Lab.</p></em>
+```
+
+<br>
 
 ::: {.hero}
 ::: {.hero-content}
-<span class="hero-kicker">AI GOVERNANCE EVIDENCE LAB · RESEARCH CONCEPT</span>
+<span class="hero-kicker">INDEPENDENT RESEARCH CONCEPT</span>
 
 # From AI Claims to Evidence
 
