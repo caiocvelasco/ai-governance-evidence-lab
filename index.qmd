@@ -1,5 +1,5 @@
 ---
-title: "AI Governance Evidence Lab"
+title: "From AI Claims to Evidence"
 subtitle: "From AI claims to evidence-informed governance decisions"
 ---
 
@@ -8,19 +8,19 @@ subtitle: "From AI claims to evidence-informed governance decisions"
   <div class="lab-project-brand">
     <a href="https://aigovernancelab.org/" target="_self">AI Governance Lab</a>
     <span class="lab-project-separator" aria-hidden="true">/</span>
-    <span class="lab-project-category">Evidence &amp; Evaluation</span>
+    <span class="lab-project-category">Projects</span>
   </div>
   <a class="lab-project-back" href="https://aigovernancelab.org/projects.html" target="_self"><span aria-hidden="true">←</span> All projects</a>
 </nav>
-<em><p class="lab-project-note">An independent research concept developed as part of the AI Governance Lab.</p></em>
+<div class="lab-project-tags" aria-label="Project classification">
+  <span class="pillar-tag">Governance of AI</span>
+  <span class="application-tag">Employment &amp; Recruitment</span>
+</div>
+<div class="eyebrow lab-project-stage">RESEARCH PROJECT · CONCEPT STAGE · NOVEMBER 2026</div>
 ```
-
-<br>
 
 ::: {.hero}
 ::: {.hero-content}
-<span class="hero-kicker">INDEPENDENT RESEARCH CONCEPT</span>
-
 # From AI Claims to Evidence
 
 **How can we tell whether claims about AI systems are credible enough to inform governance decisions?**
@@ -47,7 +47,7 @@ AI developers and deployers make claims about safety, fairness, and social benef
 ::: {.intro-copy}
 _A claim is not the same as evidence, and evidence is not the same as proof._
 
-The Lab is an early-stage **research framework for tracing AI-related claims to supporting information** - such as evaluation results, audit reports, documentation, or observed outcomes - and asking what that information actually establishes. The intended contribution is a transparent way to analyze evidence quality and its implications for oversight, not a new tool that automatically certifies AI systems.
+This project is an early-stage **research framework for tracing AI-related claims to supporting information** - such as evaluation results, audit reports, documentation, or observed outcomes - and asking what that information actually establishes. The intended contribution is a transparent way to analyze evidence quality and its implications for oversight, not a new tool that automatically certifies AI systems.
 :::
 :::
 
@@ -103,10 +103,10 @@ These examples raise a common research question: **What evidence is sufficient t
 
 - The study could produce a structured evidence matrix and a policy paper identifying gaps in current evaluation practices and recommending ways to improve transparency, accountability, and regulatory oversight.
 
-## How the Evidence Lab Approaches the Problem {#questions}
+## How the Research Project Approaches the Problem {#questions}
 
 ::: {.section-subtitle}
-The Evidence Lab is built around three interconnected questions: how to assess the credibility of evidence about AI systems, determine what conclusions it supports, and translate those findings into informed governance decisions.
+This project is built around three interconnected questions: how to assess the credibility of evidence about AI systems, determine what conclusions it supports, and translate those findings into informed governance decisions.
 :::
 
 ::: {.workflow aria-label="Three research questions and a proposed research process"}
@@ -135,7 +135,7 @@ The Evidence Lab is built around three interconnected questions: how to assess t
 ## How We Investigate These Questions {#workflow}
 
 ::: {.section-subtitle}
-The Evidence Lab combines policy research, comparative case studies, and quantitative analysis to examine how AI-related claims are supported by evidence and how that evidence can inform governance decisions.
+This project combines policy research, comparative case studies, and quantitative analysis to examine how AI-related claims are supported by evidence and how that evidence can inform governance decisions.
 :::
 
 ::: {.output-grid}
@@ -174,7 +174,7 @@ A model-generated summary is not independent verification. An audit is not neces
 ::: {.intro-copy}
 **Central question:** *What evidence should decision-makers require before relying on claims about AI systems?*
 
-The Evidence Lab aims to translate research into actionable insights for AI governance. An initial contribution could be a comparative study of publicly documented AI evaluation and assurance practices, examining the credibility of supporting evidence, identifying gaps and limitations, and assessing their implications for governance decisions.
+This project aims to translate research into actionable insights for AI governance. An initial contribution could be a comparative study of publicly documented AI evaluation and assurance practices, examining the credibility of supporting evidence, identifying gaps and limitations, and assessing their implications for governance decisions.
 
 The research could produce a **policy paper or research report**, accompanied by a **structured evidence matrix** that documents the supporting evidence, its limitations, and the conclusions it can reasonably support. Together, these outputs would offer practical recommendations for strengthening transparency, accountability, and regulatory oversight.
 :::

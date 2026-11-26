@@ -3,7 +3,7 @@ project:
   output-dir: _site
 
 website:
-  title: "AI Governance Evidence Lab | Research Concept"
+  title: "From AI Claims to Evidence | AI Governance Lab"
   navbar: false
   page-footer:
     center: "Independent research concept by Caio Velasco · AI Governance Lab · No institutional affiliation or endorsement implied"

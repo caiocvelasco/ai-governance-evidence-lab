@@ -1,4 +1,6 @@
-# AI Governance Evidence Lab
+# From AI Claims to Evidence
+
+A research project of the [AI Governance Lab](https://aigovernancelab.org/) (Governance of AI pillar; concept stage).
 
 An independent, one-page [Quarto](https://quarto.org/) research concept exploring **the quality of evidence used in AI governance, what evaluations establish, and how evidence should inform oversight decisions**.
 
